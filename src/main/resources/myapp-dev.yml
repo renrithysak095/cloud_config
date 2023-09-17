@@ -5,6 +5,7 @@ message: Hello This is my guys
 
 spring:
   datasource:
+    driver-class-name: org.postgresql.Driver
     url: jdbc:postgres://localhost:5432/postgres
     username: postgres
     password: saK095450646
