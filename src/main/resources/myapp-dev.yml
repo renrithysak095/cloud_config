@@ -1,6 +1,8 @@
 server:
   port: 8080
 
+message: Hello This is my guys
+
 spring:
   datasource:
     url: jdbc:postgres://localhost:5432/postgres
